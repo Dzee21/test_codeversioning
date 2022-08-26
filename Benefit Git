@@ -1,0 +1,7 @@
+3 Benefit Git!
+
+1) Dengan Git Developper dapat membuat banyak cabang dari satu data yang ada, terdapat dua jenis cabang, yaitu main branch dan feature branch. Main branch memiliki code yang sudah dirilis, sedangkan feature branch berisikan apa yang sedang kamu kerjakan dan akan di-merge ke main branch. Setelah hasil dari codingan selesai kita bisa merge atau satukan dengan sangat mudah.
+
+2) Dengan Git kita dapat membuat sebuah dokumentasi project, baik dari sisi source code nya ataupun perubahan fungsi. Kita cukup commit pada setiap perubahan yang dilakukan pada setiap file, dalam pengerjaan nya kita bisa disimpan offline ataupun online.
+
+3) Kita sebagai Developer dapat berpartisipasi  di dalam sebuah pengembangan project yang bersifat open source yang dilakukan oleh orang-orang begitupun sebaliknya orang-orang dapat berkontribusi pada project yang sudah kita buat.
